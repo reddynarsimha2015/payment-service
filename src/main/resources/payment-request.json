@@ -1,0 +1,27 @@
+{
+  "customerDetails" : [ {
+    "customerName" : "sreenu",
+    "cardNumber" : "121212121",
+    "cvvNum" : "1212",
+    "expDate" : "11-2029",
+    "mobileNumber" : "998999999",
+    "amount" : 1000.0,
+    "billDate" : "22-04-2022"
+  }, {
+    "customerName" : "sreenu",
+    "cardNumber" : "121212121",
+    "cvvNum" : "1212",
+    "expDate" : "11-2029",
+    "mobileNumber" : "998999999",
+    "amount" : 1000.0,
+    "billDate" : "22-04-2022"
+  }, {
+    "customerName" : "sreenu",
+    "cardNumber" : "121212121",
+    "cvvNum" : "1212",
+    "expDate" : "11-2029",
+    "mobileNumber" : "998999999",
+    "amount" : 1000.0,
+    "billDate" : "22-04-2022"
+  } ]
+}
